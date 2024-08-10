@@ -1,7 +1,8 @@
 # Chada Tech Clock
+
 Incremental Clock Console Application
 
-Scenario:
+# Scenario:
 
 As a recent graduate of SNHU, you’ve taken the time to consider the type of work you really want to do and therefore have focused your job search on junior developer positions. In searching the major job boards, you discover Chada Tech.
 
